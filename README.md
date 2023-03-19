@@ -2,8 +2,8 @@
 
 Aqui eu posto alguns trabalhos meus :) Espero que vocês gostem! Sou graduando em Sistemas de Informação, e gosto tanto de Front-end quanto de Back-end.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianvct12)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianvct12)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianvct12&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianvct12&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: inline_block"><br>
   <img align="center" alt="Ian-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"  target="_blank">
   <img align="center" alt="Ian-C" height="30" width="40" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"  target="_blank">
