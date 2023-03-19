@@ -9,7 +9,9 @@ Aqui eu posto alguns trabalhos meus :) Espero que vocês gostem! Sou graduando e
   <img align="center" alt="Ian-C" height="30" width="40" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" alt="Ian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ian-SQL" height="30" width="40" src="https://cdn4.iconfinder.com/data/icons/flat-pro-database-set-1/32/sql-badge-1024.png">
   <img align="right" alt="Ian-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/yDPzBnrXsUwAAAAC/wwu2jt-wwu2johnnytriggers.gif">
+  
 </div>
   
   ##
