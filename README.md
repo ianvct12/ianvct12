@@ -1,6 +1,6 @@
 ## Olá! Seja bem-vindo ao meu Github!
 
-Aqui eu posto alguns trabalhos meus :) Espero que vocês gostem! Sou graduando em Sistemas de Informação, e gosto tanto de Front-end quanto de Back-end.
+Aqui eu posto alguns trabalhos meus :) Espero que vocês gostem! Sou graduando em Sistemas de Informação, 2º período, e gosto tanto de Front-end quanto de Back-end.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianvct12&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianvct12&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
