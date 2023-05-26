@@ -9,8 +9,7 @@ escritorial, análise de contratos e conhecimento das rotinas cartoriais e dos t
 
 Apesar de ter feito Direito, em sistemas de informação consegui me identificar muito mais :) Gosto tanto da parte de Back-end, quanto a de Front-end.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianvct12&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianvct12&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Ian-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"  target="_blank">
   <img align="center" alt="Ian-C" height="30" width="40" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"  target="_blank">
