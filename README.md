@@ -1,6 +1,6 @@
 ## Olá! Seja bem-vindo ao meu Github!
 
-Experiência em desenvolvimento de sites com HTML, CSS, BootStrap, WordPress e Javascript. Além de saber criar de programas na linguagem C, Python, Javascript, Java e programar em SQL.
+Experiência em desenvolvimento de sites com HTML, CSS, BootStrap, WordPress e Javascript. Além de saber criar de programas na linguagem C, Python, Javascript, Java e programar em SQL. Sei também usar algumas outras ferramentas como Power BI, Bizagi, etc;...
 
 Ex-advogado com experiência em Direito Civil nas atividades de elaboração de sentenças, gestão
 escritorial, análise de contratos e conhecimento das rotinas cartoriais e dos tribunais.
