@@ -1,10 +1,8 @@
 ## Olá! Seja bem-vindo ao meu Github!
 
-Experiência em desenvolvimento de sites, bem como na criação de programas na linguagem C.
-Iniciante em Javascript, buscando cada vez mais conhecimento e aprimoramentos, fazendo cursos por
-fora da faculdade, como vários no Alura, CS50 Harvard e alguns da Udemy.  
+Experiência em desenvolvimento de sites com HTML, CSS, BootStrap, WordPress e Javascript. Além de saber criar de programas na linguagem C, Python, Javascript, Java e programar em SQL.
 
-Advogado com experiência em Direito Civil nas atividades de elaboração de sentenças, gestão
+Ex-advogado com experiência em Direito Civil nas atividades de elaboração de sentenças, gestão
 escritorial, análise de contratos e conhecimento das rotinas cartoriais e dos tribunais.
 
 Apesar de ter feito Direito, em sistemas de informação consegui me identificar muito mais :) Gosto tanto da parte de Back-end, quanto a de Front-end.
