@@ -1,6 +1,7 @@
 ## Olá! Seja bem-vindo ao meu Github!
 
 Atualmente, sou estagiário de Cloud Computing, e gosto muito :) Sei mexer com GKE, Compute Engine, configurar Load Balancer, entre outros :)
+
 Tenho experiência em desenvolvimento de sites com HTML, CSS, BootStrap, WordPress, React, Firebase e Javascript. Além de saber criar de programas na linguagem C, Python, Javascript, Java e programar em SQL. Sei também usar um pouco de API e Jquery, além de algumas ferramentas como Power BI, Bizagi, etc;...
 
 Ex-advogado com experiência em Direito Civil nas atividades de elaboração de sentenças, gestão
